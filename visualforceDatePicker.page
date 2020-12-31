@@ -3,7 +3,7 @@
     <apex:pageBlock >
         <apex:pageBlockSection>
             <apex:pageBlockSectionItem>
-                Date: <apex:input type="date" value="{!dat}"/>
+                Date: <apex:input type="date" value="{!dt}"/>
             </apex:pageBlockSectionItem>
         </apex:pageBlockSection>
     </apex:pageBlock>
